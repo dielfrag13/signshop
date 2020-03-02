@@ -1,0 +1,19 @@
+name: signshop
+main: com.nexusmaximus.signshop.Main
+depend: [PhantomEconomy]
+version: 1.0
+api-version: 1.15
+# Replace "kit" with the name of your command.
+commands:
+
+    SignShopOp:
+        usage: /SignShopOp nameOfPlayer [nameOfSecondPlayer]*
+        description: Adds all given player name strings to the SignShop op list
+    
+    SignShopDeop:
+        usage: /SignShopDeop nameOfPlayer [nameOfSecondPlayer]*
+        description: Removes all given player name strings from the SignShop op list
+        
+    ViewSignShopOps:
+        usage: /ViewSignShopOps
+        description: displays all ops registered in the SignShop op list
