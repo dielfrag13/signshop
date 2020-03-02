@@ -9,7 +9,8 @@
 * preeeeeety colors differentiating blessed and unblessed signs 😍
 
 
-![image](https://user-images.githubusercontent.com/11789604/75647067-fb125d80-5c08-11ea-8598-0ef1b8916aa3.png)
+![image](https://user-images.githubusercontent.com/11789604/75647667-ed5dd780-5c0a-11ea-971b-f1a26305414a.png)
+
 
 
 ## How to use
